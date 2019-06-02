@@ -5,5 +5,5 @@ public class ClasePrueba {
 	int b=1;
 	int c=3;
 	int c=2;
-	
+	int e=5;
 }
